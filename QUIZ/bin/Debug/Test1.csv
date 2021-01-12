@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz Title="Test1" Description="This is a test quiz file, just to check if everything goes as planned">
+  <Question Id="1" Content="Can you read this question?" AnswerA="Yes" AnswerB="No" AnswerC="Probably" AnswerD="What question?" AnswerCorrect="A" />
+  <Question Id="2" Content="How awesome is that?" AnswerA="Well..." AnswerB="AWESOME!" AnswerC="Not at all." AnswerD="?" AnswerCorrect="B" />
+  <Question Id="3" Content="How many questions have you answered so far?" AnswerA="1" AnswerB="2" AnswerC="3" AnswerD="4" AnswerCorrect="B" />
+</Quiz>

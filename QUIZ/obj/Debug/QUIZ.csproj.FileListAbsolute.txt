@@ -1,0 +1,14 @@
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\bin\Debug\QUIZ.exe.config
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\bin\Debug\QUIZ.exe
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\bin\Debug\QUIZ.pdb
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.csprojAssemblyReference.cache
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.Properties.Resources.resources
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.csproj.GenerateResource.cache
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.csproj.CoreCompileInputs.cache
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.exe
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.pdb
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.OpenQuizForm.resources
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.AddQuestionControl.resources
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.QuizCreatorForm.resources
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.QuizMainMenu.resources
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.HelpForm.resources

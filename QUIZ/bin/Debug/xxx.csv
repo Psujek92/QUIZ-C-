@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Quiz Title="Asia2" Description="test">
+  <Question Id="2" Content="czy zrobisz ze mna Gefaehrdungsbeurteilungi_" AnswerA="tak, chetnie" AnswerB="tak, niechetnie" AnswerC="tak, średniochętnie, tylko zadzwonie do wujka" AnswerD="tak, juz do tego siadamy, tylko zadzwonie do wujka!" AnswerCorrect="D" />
+  <Question Id="3" Content="czy robisz mi herbatke_" AnswerA="tak, juz jest gotowa" AnswerB="nie, chciałaś wodę z femannozą" AnswerC="nie, jednak i herbatka i woda z femannoza" AnswerD="nie." AnswerCorrect="C" />
+</Quiz>

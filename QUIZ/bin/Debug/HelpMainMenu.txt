@@ -1,0 +1,9 @@
+Welcome to my QuizMachine!
+
+In order to create new Quiz file, click 'Create'.
+
+To test your knowledge first select a Quiz file from the list to the left, then click 'Open'.
+
+To change the folder, in which Quiz files are being saved and opened, click 'Folder'.
+
+Have fun!

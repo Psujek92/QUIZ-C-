@@ -1,0 +1,5 @@
+Welcome to QuizCreator!
+
+In order to succesfully create a Quiz file, you need to give it a Name, Description and also specify the file name. Note, that you can use the 'Same as Quiz Name' tick box to name the file same as the Quiz.
+
+To add a question to your quiz make sure you fill all of the required fields ('Question', 'Answer A', etc.) as well as select the correct answer.
