@@ -28,7 +28,6 @@ namespace QUIZ
             if (MessageBox.Show(msg, this.Text, MessageBoxButtons.YesNo) == DialogResult.No)
             {
                 e.Cancel = true;
-
             }
         }
         private void CloseButton_Click(object sender, EventArgs e)
