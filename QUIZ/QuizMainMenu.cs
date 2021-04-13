@@ -52,8 +52,7 @@ namespace QUIZ
         }
         private void OpenButton_Click(object sender, EventArgs e)
         {
-            var path = "quizFilesListBox.SelectedItem.ToString()";
-            var openQuizForm = new OpenQuizForm(path);
+            var openQuizForm = new OpenQuizForm(quizFilesListBox.SelectedItem.ToString());
             openQuizForm.Show();
 
         }
@@ -64,7 +63,7 @@ namespace QUIZ
         }
         private void quizFilesListBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            DetailsLabel.Text = FileHandler.PreviewXml("quizFilesListBox.SelectedItem.ToString()");
+            DetailsLabel.Text = FileHandler.PreviewXml(quizFilesListBox.SelectedItem.ToString());
             openButton.Enabled = true;
         }
         private void quizFilesListBox_DoubleClick(object sender, EventArgs e)
