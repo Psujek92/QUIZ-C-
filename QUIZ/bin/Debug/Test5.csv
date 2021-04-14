@@ -1,4 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz Title="Test5" Description="overwritetest">
-  <Question Id="1 / 1" Content="New question" AnswerA="test" AnswerB="test" AnswerC="test" AnswerD="test" AnswerCorrect="A" />
-</Quiz>

@@ -68,8 +68,7 @@ namespace QUIZ
         }
         private void quizFilesListBox_DoubleClick(object sender, EventArgs e)
         {
-            var path = "quizFilesListBox.SelectedItem";
-            var openQuizForm = new OpenQuizForm(path);
+            var openQuizForm = new OpenQuizForm(quizFilesListBox.SelectedItem.ToString());
             openQuizForm.Show();
         }
 

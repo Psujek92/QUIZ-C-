@@ -12,3 +12,7 @@ C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.AddQuestionControl.res
 C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.QuizCreatorForm.resources
 C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.QuizMainMenu.resources
 C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.HelpForm.resources
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\bin\Debug\QUIZ.exe.manifest
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\bin\Debug\QUIZ.application
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.exe.manifest
+C:\Users\Psujek\Programming\QUIZ\QUIZ\QUIZ\obj\Debug\QUIZ.application

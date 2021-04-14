@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Quiz Title="Test4" Description="asd">
-  <Question Id="1" Content="1" AnswerA="asd" AnswerB="asd" AnswerC="asd" AnswerD="asd" AnswerCorrect="B" />
-  <Question Id="2" Content="2" AnswerA="asd" AnswerB="asd" AnswerC="asd" AnswerD="asd" AnswerCorrect="C" />
-  <Question Id="3" Content="3" AnswerA="ddd" AnswerB="d" AnswerC="d" AnswerD="d" AnswerCorrect="D" />
-  <Question Id="4" Content="4" AnswerA="asd" AnswerB="dd" AnswerC="d" AnswerD="d" AnswerCorrect="D" />
-</Quiz>
